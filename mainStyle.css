@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+.newStyle
+{
+	font-family: 'Dancing Script', cursive;
+}
+
+    
+.parallax-container 
+{
+	background-position: 50% 300px !important;
+	height: 600px;
+}
+
+#move
+{
+	padding-top:50px;
+}
+
+.row
+{
+	padding-bottom:20px;
+}
+
+     
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+main {
+    flex: 1 0 auto;
+    padding-bottom:20px;
+  }
+
+#border
+{
+	border: 10px solid #00897b;
+}
+
+#pull-right
+{
+	margin-left: 50px;
+}
+
+#text-align
+{
+	text-align:justify;
+}
+
+#colMove
+{
+
+	padding-left:100px;
+	/*padding-right:20px;*/
+}
